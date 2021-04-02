@@ -6,3 +6,4 @@ Skills: Django / React / JS / HTML / CSS / Java
 
 - 🔭 I’m currently working on furthering my Django and React knowledge
 - 🌱 I’m currently learning about Agile SDLC
+- ⚡ Fun fact: I enjoy learning about Cybersecurity, Ethical Hacking, Cryptography and Blockchain 
