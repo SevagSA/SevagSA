@@ -2,7 +2,7 @@
 #### I am a Computer Science Technology student
 I mainly work on web development with Django and React
 
-Skills: Django / React / JS / HTML / CSS / Java
+Skills: Django / Python / React / JS / HTML / CSS / Java
 
-- 🌱 I’m currently learning about Agile SDLC
-- ⚡ Fun fact: I enjoy learning about Cybersecurity, Ethical Hacking, Cryptography and Blockchain 
+- 🌱 I’m currently advancing my Python and Django knowledge.
+- ⚡ Fun fact: I enjoy learning about Cybersecurity, Ethical Hacking, Cryptography and Blockchain.
