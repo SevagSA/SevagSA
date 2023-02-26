@@ -6,5 +6,6 @@ I mainly work on:
 - Web Development with Django and React
 
 Useful Links:
-- 📄 You can view my CV [here](https://drive.google.com/file/d/1A0kgOV524iQ66FccByxMOLyWBLANKmmy/view)
-- 🌐 Visit my website at [sevag-aredjian.com](https://www.sevag-aredjian.com/)
+- 📄 You can view my CV @ [here](https://drive.google.com/file/d/1A0kgOV524iQ66FccByxMOLyWBLANKmmy/view)
+- 🌐 Visit my website @ [sevag-aredjian.com](https://www.sevag-aredjian.com/)
+- 📫 You can contact me @ sevagared2002@gmail.com
