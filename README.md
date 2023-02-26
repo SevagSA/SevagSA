@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Sevag
-#### I am a freshmen @ Concordia University in Computer Science with a focus on Artificial Intelligence
-#### I am also an incoming AI SWE intern @ Intact Financial Corporation
+#### Freshmen @ Concordia University in Computer Science with a focus on Artificial Intelligence
+#### Incoming AI SWE intern @ Intact Financial Corporation
+
+<hr />
 
 I mainly work on:
 - AI/ML with Python and Tensorflow with a focus on Algorithmic/Quantitative trading
