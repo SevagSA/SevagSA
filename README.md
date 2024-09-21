@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sevag
 About me:
 - 🎓 Computer Science @ Concordia University (with a focus on Artificial Intelligence)
-- 💼 AI SWE intern @ Intact Financial Corporation (2nd AI SWE internship at Intact)
+- 💼 AI SWE @ Intact Financial Corporation
 
 <hr />
 
